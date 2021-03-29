@@ -34,3 +34,55 @@ function clickAlert() {
 alert (`Ghana, officially the Republic of Ghana which was formerly called Gold Coast, is a country along the Gulf of Guinea and the Atlantic Ocean, in the subregion of West Africa.`);
 }
 ghana.addEventListener(`click`, clickAlert);
+
+let guinea = country[5];
+
+function clickAlert() {
+alert (`Guinea is a country in West Africa, bordered on the west by the Atlantic Ocean. It's known for the Mount Nimba Strict Nature Reserve, in the southeast. The reserve protects a forested mountain range rich in native plants and animals, including chimpanzees and the viviparous toad. On the coast, the capital city, Conakry, is home to the modern Grand Mosque and the National Museum, with its regional artifacts.`);
+}
+guinea.addEventListener(`click`, clickAlert);
+
+let guineaBissau = country[6];
+
+function clickAlert() {
+alert (`Guinea-Bissau is a tropical country on West Africa’s Atlantic coast that’s known for national parks and wildlife. The forested, sparsely populated Bijagós archipelago is a protected biosphere reserve. Its main island, Bubaque, forms part of the Orango Islands National Park, a habitat for saltwater hippos. On the mainland, the capital, Bissau, is a port with Portuguese colonial buildings in its old city center.`);
+}
+guineaBissau.addEventListener(`click`, clickAlert);
+
+let ivoryCoast = country[7];
+
+function clickAlert() {
+alert (`Côte d'Ivoire is a West African country with beach resorts, rainforests and a French-colonial legacy. Abidjan, on the Atlantic coast, is the country’s major urban center. Its modern landmarks include zigguratlike, concrete La Pyramide and St. Paul's Cathedral, a swooping structure tethered to a massive cross. North of the central business district, Banco National Park is a rainforest preserve with hiking trails.`);
+}
+ivoryCoast.addEventListener(`click`, clickAlert);
+
+let liberia = country[8];
+
+function clickAlert() {
+alert (`Liberia is a country in West Africa, bordering Sierra Leone, Guinea and Côte d'Ivoire. On the Atlantic coast, the capital city of Monrovia is home to the Liberia National Museum, with its exhibits on national culture and history. Around Monrovia are palm-lined beaches like Silver and CeCe. Along the coast, beach towns include the port of Buchanan, as well as laid-back Robertsport, known for its strong surf. `);
+}
+liberia.addEventListener(`click`, clickAlert);
+
+let mali = country[9];
+
+function clickAlert() {
+alert (`Liberia is a country in West Africa, bordering Sierra Leone, Guinea and Côte d'Ivoire. On the Atlantic coast, the capital city of Monrovia is home to the Liberia National Museum, with its exhibits on national culture and history. Around Monrovia are palm-lined beaches like Silver and CeCe. Along the coast, beach towns include the port of Buchanan, as well as laid-back Robertsport, known for its strong surf. `);
+}
+mali.addEventListener(`click`, clickAlert);
+
+let mali = country[10];
+
+function clickAlert() {
+alert (`Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of just over 1,240,000 square kilometres. The population of Mali is 19.1 million. 67% of its population was estimated to be under the age of 25 in 2017. Its capital is Bamako.`);
+}
+mali.addEventListener(`click`, clickAlert);
+
+
+
+
+
+
+
+
+    
+
