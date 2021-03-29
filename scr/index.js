@@ -66,16 +66,55 @@ liberia.addEventListener(`click`, clickAlert);
 let mali = country[9];
 
 function clickAlert() {
-alert (`Liberia is a country in West Africa, bordering Sierra Leone, Guinea and Côte d'Ivoire. On the Atlantic coast, the capital city of Monrovia is home to the Liberia National Museum, with its exhibits on national culture and history. Around Monrovia are palm-lined beaches like Silver and CeCe. Along the coast, beach towns include the port of Buchanan, as well as laid-back Robertsport, known for its strong surf. `);
-}
-mali.addEventListener(`click`, clickAlert);
-
-let mali = country[10];
-
-function clickAlert() {
 alert (`Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of just over 1,240,000 square kilometres. The population of Mali is 19.1 million. 67% of its population was estimated to be under the age of 25 in 2017. Its capital is Bamako.`);
 }
 mali.addEventListener(`click`, clickAlert);
+
+let mauritania = country[10];
+
+function clickAlert() {
+alert (`Mauritius, an Indian Ocean island nation, is known for its beaches, lagoons and reefs. The mountainous interior includes Black River Gorges National Park, with rainforests, waterfalls, hiking trails and wildlife like the flying fox. Capital Port Louis has sites such as the Champs de Mars horse track, Eureka plantation house and 18th-century Sir Seewoosagur Ramgoolam Botanical Gardens.`);
+}
+mauritania.addEventListener(`click`, clickAlert);
+
+let niger = country[11];
+
+function clickAlert() {
+alert (`Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa named after the Niger River. Niger is bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest. `);
+}
+niger.addEventListener(`click`, clickAlert);
+
+let nigeria = country[12];
+
+function clickAlert() {
+alert (`Nigeria, an African country on the Gulf of Guinea, has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls, dense rainforest, savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock, a 725m-tall monolith outside the capital of Abuja that’s pictured on the national currency. `);
+}
+nigeria.addEventListener(`click`, clickAlert);
+
+let senegal = country[13];
+
+function clickAlert() {
+alert (`Senegal, officially the Republic of Senegal, is a country in West Africa. Senegal is bordered by Mauritania in the north, Mali to the east, Guinea to the southeast, and Guinea-Bissau to the southwest.`);
+}
+senegal.addEventListener(`click`, clickAlert);
+
+let sierraLeone = country[14];
+
+function clickAlert() {
+alert (`Sierra Leone is a country in West Africa, on the Atlantic Ocean. It’s known for the white-sand beaches lining the Freetown Peninsula. The capital city, Freetown, commemorates the nation’s slave-trade history with the Cotton Tree landmark and King’s Yard Gate. Both were known as places of refuge for returned slaves in the 18th and 19th centuries. Nearby Bunce Island was a key departure point during the slave trade.`);
+}
+sierraLeone.addEventListener(`click`, clickAlert);
+
+let togo = country[15];
+
+function clickAlert() {
+alert (`Togo, a West African nation on the Gulf of Guinea, is known for its palm-lined beaches and hilltop villages. Koutammakou, inhabited by the Batammariba people, is a traditional settlement of fortresslike clay huts dating to the 17th century. In the capital, Lomé, are the multistory Grand Marché bazaar and the Fetish Market, offering traditional talismans and remedies relating to the vodun (voodoo) religion. `);
+}
+togo.addEventListener(`click`, clickAlert);
+
+
+
+
 
 
 
