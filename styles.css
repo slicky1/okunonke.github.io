@@ -50,8 +50,15 @@
     position:fixed;
     text-align:center;
     top:50%;
-    transform:translate(-50%, -50%);
+    transform:translate(-50%, -50%)
+
   }*/
+
+  p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(194, 193, 170);
+  }
   
   h1 {
     font-family:MV boli;
